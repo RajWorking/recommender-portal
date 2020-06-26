@@ -37,8 +37,9 @@ export default {
         stepNum: 1
     }),
     methods: {
+
         async dummyMethod() {
-            // dummy method to test the integration you can call any action here using this.$store.dispatch()
+            // dummy method to test the integration you can call any action here using this.$store.dispatch()I
             console.log("DEBUG");
             // do your work here
             console.log("/DEBUG");
